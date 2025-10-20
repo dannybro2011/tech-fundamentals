@@ -1,4 +1,4 @@
-# Cat Adventure :cat2:
+# Cat Adventure
 
 A simple text-based adventure game built with Python.  
 The player guides a cat through various choices to reach different endings.
