@@ -10,4 +10,5 @@ The player guides a cat through various choices to reach different endings.
 
 ## How to Run
 ```bash
-python cat_adventure.py
+python CatventureGame.py
+
